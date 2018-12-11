@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://kmlCiright.github.io/pwa/index.html",
+  "index": "https://kmlciright.github.io/pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://kmlCiright.github.io/pwa/favicon.ico",
-        "https://kmlCiright.github.io/pwa/index.html",
-        "https://kmlCiright.github.io/pwa/main.3be966cff13529e4c2f5.js",
-        "https://kmlCiright.github.io/pwa/polyfills.c6871e56cb80756a5498.js",
-        "https://kmlCiright.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js",
-        "https://kmlCiright.github.io/pwa/styles.3bb2a9d4949b7dc120a9.css"
+        "https://kmlciright.github.io/pwa/favicon.ico",
+        "https://kmlciright.github.io/pwa/index.html",
+        "https://kmlciright.github.io/pwa/main.ab69ddce660657d1e4d2.js",
+        "https://kmlciright.github.io/pwa/polyfills.c6871e56cb80756a5498.js",
+        "https://kmlciright.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js",
+        "https://kmlciright.github.io/pwa/styles.3bb2a9d4949b7dc120a9.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-128x128.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-144x144.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-152x152.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-192x192.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-384x384.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-512x512.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-72x72.png",
-        "https://kmlCiright.github.io/pwa/assets/icons/icon-96x96.png"
+        "https://kmlciright.github.io/pwa/assets/icons/icon-128x128.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-144x144.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-152x152.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-192x192.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-384x384.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-512x512.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-72x72.png",
+        "https://kmlciright.github.io/pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://kmlCiright.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://kmlCiright.github.io/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://kmlCiright.github.io/pwa/index.html": "cf62560423120a8012fea754208c47e7bb68b69a",
-    "https://kmlCiright.github.io/pwa/main.3be966cff13529e4c2f5.js": "b958f905c775e9d830bf50b03d07c4856230ec87",
-    "https://kmlCiright.github.io/pwa/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "https://kmlCiright.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://kmlCiright.github.io/pwa/styles.3bb2a9d4949b7dc120a9.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://kmlciright.github.io/pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://kmlciright.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://kmlciright.github.io/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://kmlciright.github.io/pwa/index.html": "11d63d0d0cb45925373cb812c6fbe41a4306aabf",
+    "https://kmlciright.github.io/pwa/main.ab69ddce660657d1e4d2.js": "6940a4263d904af64636af587c5183b9e3cda229",
+    "https://kmlciright.github.io/pwa/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://kmlciright.github.io/pwa/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://kmlciright.github.io/pwa/styles.3bb2a9d4949b7dc120a9.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
